@@ -1,3 +1,5 @@
+![Ikhbar Nurinsani Banner](images/banner.png)
+
 ## Hi there! 👋
 
 My name is Ikhbar Nurinsani and I'm a Fullstack Web Developer from Indonesia.
