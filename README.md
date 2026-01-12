@@ -18,4 +18,15 @@ My name is Ikhbar Nurinsani and I'm a Full Stack Web Developer from Indonesia.
 
 #### My Github Stats
 
-[![Ikhbar Nurinsani GitHub Stats](https://github-readme-stats-ikhbarnuridevs-projects.vercel.app/api?username=ikhbarnuridev)](#)
+<div align="center" style="display: flex; flex-direction: column; gap: 20px; width: 100%; align-items: start;">
+  <div style="width: 100%; max-width: 500px;">
+    <a href="#">
+      <img src="https://github-readme-stats-ikhbarnuridevs-projects.vercel.app/api?username=ikhbarnuridev&theme=default" alt="Ikhbar Nurinsani GitHub Stats" style="width: 100%;" />
+    </a>
+  </div>
+  <div style="width: 100%; max-width: 500px;">
+    <a href="#">
+      <img src="https://github-readme-stats-ikhbarnuridevs-projects.vercel.app/api/wakatime?username=ikhbarnuridev&theme=default" alt="Ikhbar Nurinsani WakaTime Stats" style="width: 100%;" />
+    </a>
+  </div>
+</div>
