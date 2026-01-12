@@ -20,12 +20,12 @@ My name is Ikhbar Nurinsani and I'm a Full Stack Web Developer from Indonesia.
 
 <div align="start">
   <a href="#">
-    <img src="https://github-readme-stats-ikhbarnuridevs-projects.vercel.app/api?username=ikhbarnuridev&theme=default" alt="Ikhbar Nurinsani GitHub Stats" width="495" />
+    <img src="https://github-readme-stats-ikhbarnuridevs-projects.vercel.app/api?username=ikhbarnuridev&theme=transparent" alt="Ikhbar Nurinsani GitHub Stats" width="495" />
   </a>
 </div>
 
 <div align="start">
   <a href="#">
-    <img src="https://github-readme-stats-ikhbarnuridevs-projects.vercel.app/api/wakatime?username=ikhbarnuridev&theme=default" alt="Ikhbar Nurinsani WakaTime Stats" width="495" />
+    <img src="https://github-readme-stats-ikhbarnuridevs-projects.vercel.app/api/wakatime?username=ikhbarnuridev&theme=transparent" alt="Ikhbar Nurinsani WakaTime Stats" width="495" />
   </a>
 </div>
