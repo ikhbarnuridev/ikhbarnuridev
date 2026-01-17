@@ -2,12 +2,14 @@
 
 ## Hi there! 👋
 
-My name is Ikhbar Nurinsani and I'm a Full Stack Web Developer from Indonesia.
+<div>
+  My name is Ikhbar Nurinsani and I'm a Full Stack Web Developer
+  <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" alt="Coding Animation" width="96"  />
+  from Indonesia.
+</div></br>
 
 - 🔭 Currently working at [@ict-ummi](https://github.com/ict-ummi)
 - 🌱 Actively developing skills in [**Laravel**](https://laravel.com) (with [**Filament**](https://filamentphp.com)), [**React JS**](https://react.dev), and [**Flutter**](https://flutter.dev)
-
-
 
 #### Skills
 
